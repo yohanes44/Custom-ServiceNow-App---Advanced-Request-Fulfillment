@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">450d2a27cefa4210017f0dca046ed304</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">890de627d2fa42108d68e2591ebafce2</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 06:55:02</sys_created_on>
+        <sys_id>010de62768fa4210f8df2bb1a7008de3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_010de62768fa4210f8df2bb1a7008de3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:55:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

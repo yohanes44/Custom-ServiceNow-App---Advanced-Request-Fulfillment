@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Advanced Request Fulfillment App Config">2bba2663e0fa421016b6dfad531a462f</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Analytics Center</name>
+        <optional_parameters>tab,filter</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>analytics-center</route_type>
+        <screen_type display_value="Analytics Center">afba26630efa42106ac655f96ef4b40d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 06:45:05</sys_created_on>
+        <sys_id>63ba266319fa421050eadfb65fa60b0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Analytics Center</sys_name>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_app_route_63ba266319fa421050eadfb65fa60b0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:45:05</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=63ba266319fa421050eadfb65fa60b0e"/>
+</record_update>

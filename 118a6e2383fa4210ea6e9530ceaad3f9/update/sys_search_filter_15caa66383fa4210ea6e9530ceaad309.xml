@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Task">acdb482783220210ea6e9530ceaad3e6</ais_search_source>
+        <label>Task</label>
+        <name>Task</name>
+        <order>100</order>
+        <search_context_config display_value="Advanced Request Fulfillment AI Search Configuration">63ba2663b9fa421045f8d2178ae05d1a</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 06:45:11</sys_created_on>
+        <sys_id>15caa66383fa4210ea6e9530ceaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_search_filter_15caa66383fa4210ea6e9530ceaad309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:45:11</sys_updated_on>
+    </sys_search_filter>
+</record_update>
