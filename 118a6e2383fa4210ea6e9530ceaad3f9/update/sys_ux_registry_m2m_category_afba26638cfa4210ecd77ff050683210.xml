@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="Advanced Request Fulfillment">67ba2663c8fa4210f44c16bd7dc2a12f</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 06:45:05</sys_created_on>
+        <sys_id>afba26638cfa4210ecd77ff050683210</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_afba26638cfa4210ecd77ff050683210</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:45:05</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>

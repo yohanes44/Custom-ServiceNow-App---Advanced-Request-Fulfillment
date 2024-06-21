@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">c90d2a271afa42101a9015d5a65aff04</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <required_translations/>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 06:55:02</sys_created_on>
+        <sys_id>010d2a27a7fa42107bb280a53802f903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_010d2a27a7fa42107bb280a53802f903</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:55:02</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

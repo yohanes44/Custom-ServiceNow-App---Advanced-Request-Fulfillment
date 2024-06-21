@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">450d2a27cefa4210017f0dca046ed304</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 06:55:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>890d2a2766fa42105474265fd7de4f05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>m2m_app_config_theme_890d2a2766fa42105474265fd7de4f05</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:55:01</sys_updated_on>
+        <theme display_value="Light Theme">090d2a27bbfa4210d5b23c86a5e34c04</theme>
+        <ux_app_configuration display_value="Custom Portal App Config">780de62783fa4210ea6e9530ceaad381</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Advanced Request Fulfillment">67ba2663c8fa4210f44c16bd7dc2a12f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 06:45:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>abba26639afa42106b0b118d1043bd11</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_page_property_abba26639afa42106b0b118d1043bd11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:45:09</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_854636_advance_0.67ba2663c8fa4210f44c16bd7dc2a12f.root.listConfigId</unique_name>
+        <value>74ca666383fa4210ea6e9530ceaad374</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=abba26639afa42106b0b118d1043bd11"/>
+</record_update>

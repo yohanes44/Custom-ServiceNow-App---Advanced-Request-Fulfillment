@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Reject Mapping</name>
+        <parent_macroponent display_value="Landing Page">410de62784fa4210a81b39f09624bfe5</parent_macroponent>
+        <source_component/>
+        <source_da display_value="reject">810d2a2740fa4210e3c1482590f37804</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 06:55:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c10de62775fa421031626cd80c2c48e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Advanced Request Fulfillment" source="x_854636_advance_0">118a6e2383fa4210ea6e9530ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Request Fulfillment">118a6e2383fa4210ea6e9530ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_c10de62775fa421031626cd80c2c48e3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 06:55:04</sys_updated_on>
+        <target_event display_value="My tasks reject">c50de627abfa42102e5a92eafe7a96e2</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>
